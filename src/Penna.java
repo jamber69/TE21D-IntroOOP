@@ -6,11 +6,17 @@ public class Penna {
     boolean rubber = false;
 
     //Aktiviteter
-    public void write(){
+
+    public void open(){
 
     }
+    public void draw(){
 
+    }
     public void refill(){
+
+    }
+    public void close(){
 
     }
 }
